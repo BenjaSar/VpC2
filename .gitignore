@@ -1,3 +1,9 @@
-*.Identifier
+
+# Notes files
 *.txt
+
+# Various files
 /varios
+
+#Images extension
+*.Identifier
