@@ -1,0 +1,10 @@
+
+train: /content/data/images/train
+val: /content/data/images/validation
+test: /content/data/images/test
+
+# Classes
+names:
+  0: placa
+
+
